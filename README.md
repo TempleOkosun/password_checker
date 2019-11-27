@@ -1,2 +1,2 @@
 # password_checker
-A tool to help check if your password is secure
+Passwords get leaked all the time. This is a tool to help check if your password is secure.
